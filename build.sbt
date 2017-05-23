@@ -1,4 +1,4 @@
-name := "AkkaRestApi"
+name := "AkkaRestSlickApi"
 
 version := "1.0"
 
@@ -35,3 +35,5 @@ libraryDependencies ++= {
     "com.typesafe.scala-logging" %% "scala-logging" % "3.4.0"
   )
 }
+
+
