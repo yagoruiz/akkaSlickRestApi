@@ -36,4 +36,10 @@ libraryDependencies ++= {
   )
 }
 
+enablePlugins(DebianPlugin)
+
+maintainer in Linux := "SoftTelecom"
+
+packageDescription := "Demo"
+
 
