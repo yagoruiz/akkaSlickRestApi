@@ -2,7 +2,7 @@
 
 .idea
 project/project/
-project/target
+project/target/
 project/target/config-classes/
 project/target/resolution-cache/default/akkaslickrestapi-build/
 project/target/resolution-cache/reports/default-akkaslickrestapi-build-compile-internal.xml
