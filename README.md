@@ -1,4 +1,4 @@
-#Akka-Slick-MySQL-RestApi
+# Akka-Slick-MySQL-RestApi
 
 ## Requirements
 
