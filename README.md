@@ -9,6 +9,20 @@
 - Git
 - Text editor or IDE
 
+## Configuration
+
+Remember to modify the file `/src/main/resources/application.conf` with the correct config for your database
+
+## Deployment
+
+`$ sbt run`
+
+It will run on `localhost:8888`
+
+## How to set up the database
+
+Execute the `init.sql` script to populate the DB with some test data after deployment.
+
 ## API REST Interface
 
 **USERS**
@@ -32,13 +46,3 @@
 - `POST /v1/comments`
 - `PUT /v1/users/user_id/posts/post_id/comments/comment_id`
 - `PUT /v1/comments/comment_id`
-
-## Deployment
-
-`$ sbt run`
-
-It will run on `localhost:8888`
-
-## How to set up the database
-
-Execute the `init.sql` script to populate the DB with some test data after deployment.
