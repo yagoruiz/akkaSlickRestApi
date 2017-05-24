@@ -35,4 +35,4 @@
 
 ## How to set up the database
 
-Execute the `init.sql` script to populate the DB with some test data.
+Execute the `init.sql` script to populate the DB with some test data after deployment.
