@@ -28,8 +28,6 @@ libraryDependencies ++= {
     "org.scalatest"      %% "scalatest"                            % scalaTestVersion,
     "org.scalamock"      %% "scalamock-scalatest-support"          % scalaMockVersion,
     "com.typesafe.akka"  %% "akka-http-testkit-experimental"       % akkaStreamVersion,
-
-
     "ch.qos.logback" % "logback-classic" % "1.1.7",
     "com.typesafe.akka" %% "akka-slf4j" % akkaVersion,
     "com.typesafe.scala-logging" %% "scala-logging" % "3.4.0"
