@@ -5,7 +5,7 @@
 - SBT
 - Scala
 - MySQL
-- PHPMyAdmin, MySQLWorkbench, Sequel...
+- Database manager
 - Git
 - Text editor or IDE
 
@@ -32,3 +32,7 @@
 - `POST /v1/comments`
 - `PUT /v1/users/user_id/posts/post_id/comments/comment_id`
 - `PUT /v1/comments/comment_id`
+
+## How to set up the database
+
+Execute the `init.sql` script to populate the DB with some test data.
