@@ -1,6 +1,16 @@
 # akkaSlickRestApi
 Scala-Akka-Slick-MySQL Rest Example
 
+## Requirements
+
+- SBT
+- Scala
+- MySQL
+- PHPMyAdmin, MySQLWorkbench, Sequel...
+- Git
+- Text editor or IDE
+
+## API REST Interface
 
 **USERS**
 - `GET /v1/users`
