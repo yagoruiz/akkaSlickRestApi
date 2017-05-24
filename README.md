@@ -11,7 +11,7 @@
 
 ## Configuration
 
-Remember to modify the file `/src/main/resources/application.conf` with the correct config for your database
+Remember to modify the file `application.conf` with the correct credentials for your database
 
 ## Deployment
 
