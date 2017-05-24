@@ -1,5 +1,4 @@
-# akkaSlickRestApi
-Scala-Akka-Slick-MySQL Rest Example
+#Akka-Slick-MySQL-RestApi
 
 ## Requirements
 
